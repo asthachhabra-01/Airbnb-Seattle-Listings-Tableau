@@ -50,9 +50,9 @@ foundation for host pricing strategy and market entry decisions.
 
 ## Dashboard
 
-![Airbnb Seattle Dashboard](assets/Dashboard_2.png)
+![Airbnb Seattle Listings Dashboard](Airbnb%20Seattle%20Listings%20Dashboard.png)
 
-> View the live interactive dashboard on Tableau Public: [link coming soon]
+> View the live interactive dashboard on Tableau Public: [Airbnb Seattle Listings – Dashboard](https://public.tableau.com/views/AirbnbListing-Project/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
